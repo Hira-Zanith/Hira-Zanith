@@ -4,12 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Web+Developer;Laravel+%7C+Flutter+%7C+JavaScript;Tech+Creator+%40+PhaNix" />
 </p>
 
-## + About Me
----
----
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
