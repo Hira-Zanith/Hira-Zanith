@@ -1,29 +1,16 @@
-name: Generate Snake
+<div align="center">
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # every day
-  workflow_dispatch:       # lets you run it manually
-  push:
-    branches:
-      - main
+<img src="cat.gif" width="600" alt="banner" />
 
-permissions:
-  contents: write
+<br/><br/>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
+<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://facebook.com/YOUR_PAGE"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br/><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,mysql,nodejs,linux,git,github&perline=12" />
+
+</div>
