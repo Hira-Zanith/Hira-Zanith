@@ -4,11 +4,9 @@
 
 <br/>
 
-### IT Student | Junior Web Developer | Backend Developer
-
-I'm an **Information Technology student** who enjoys building web applications, REST APIs, and practical software projects.
-
-I mainly work with **Laravel, PHP, React, JavaScript, ASP.NET, MySQL, and Flutter**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Web+Developer;Laravel+%7C+Flutter+%7C+JavaScript;Tech+Creator+%40+PhaNix" />
+</p>
 
 <br/>
 
@@ -34,14 +32,3 @@ I mainly work with **Laravel, PHP, React, JavaScript, ASP.NET, MySQL, and Flutte
 
 <br/><br/>
 
-### Currently Building
-
-**MessageSMS** · **AI Interview** · **TT1Market** · **Developer Portfolio**
-
-<br/>
-
-###Currently Learning
-
-**Advanced Laravel APIs · React · ASP.NET · Python · English**
-
-</div>
